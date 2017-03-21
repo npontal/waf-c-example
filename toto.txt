@@ -1,7 +1,7 @@
 Ceci est mon fichier toto
 
 deuxième ligne
-
 troisième ligne
-
 quatrieme ligne
+
+lorem ipsum dolor sit amet
