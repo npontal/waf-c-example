@@ -3,7 +3,7 @@
 #include "liba/liba.h"
 
 void liba_hello() {
-  fprintf(stdout, "%s\n", "hello from liba");
+  fprintf(stdout, "%s\n", "hello from liba - Pierrot was here");
 }
 
 /* EOF */
