@@ -1,0 +1,18 @@
+# project exo-c (0.0.1) configured on Tue Mar 21 13:43:53 2017 by
+# waf 1.6.11 (abi 98, python 2070af0 on darwin)
+# using ./waf configure build
+#
+----------------------------------------
+Setting top to
+/Users/emorlock/Github-projects/waf-c-example
+----------------------------------------
+Setting out to
+/Users/emorlock/Github-projects/waf-c-example/__build__
+----------------------------------------
+Checking for 'gcc' (c compiler)
+find program=['gcc', 'cc'] paths=['/usr/local/bin', '/usr/local/sbin', '/Library/Frameworks/Python.framework/Versions/3.5/bin', '/Users/emorlock/.rvm/gems/ruby-2.2.1/bin', '/Users/emorlock/.rvm/gems/ruby-2.2.1@global/bin', '/Users/emorlock/.rvm/rubies/ruby-2.2.1/bin', '/usr/bin', '/bin', '/usr/sbin', '/sbin', '/usr/local/bin', '/opt/X11/bin', '/Library/TeX/texbin', '/Users/emorlock/bin', '/usr/local/Cellar/ant/1.9.8/libexec/bin', '/Users/emorlock/.rvm/bin', '/Users/emorlock/.rvm/bin'] var='CC' -> '/usr/bin/gcc'
+find program=['ar'] paths=['/usr/local/bin', '/usr/local/sbin', '/Library/Frameworks/Python.framework/Versions/3.5/bin', '/Users/emorlock/.rvm/gems/ruby-2.2.1/bin', '/Users/emorlock/.rvm/gems/ruby-2.2.1@global/bin', '/Users/emorlock/.rvm/rubies/ruby-2.2.1/bin', '/usr/bin', '/bin', '/usr/sbin', '/sbin', '/usr/local/bin', '/opt/X11/bin', '/Library/TeX/texbin', '/Users/emorlock/bin', '/usr/local/Cellar/ant/1.9.8/libexec/bin', '/Users/emorlock/.rvm/bin', '/Users/emorlock/.rvm/bin'] var='AR' -> '/usr/bin/ar'
+/usr/bin/gcc
+(tool compiler_c is already loaded, skipping)
+(tool compiler_c is already loaded, skipping)
+(tool compiler_c is already loaded, skipping)
