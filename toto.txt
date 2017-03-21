@@ -1,10 +1,2 @@
-Ceci est mon fichier toto
-
-deuxième ligne
-troisième ligne
-quatrieme ligne
-
-lorem ipsum dolor sit amet
-
-les sanglots longs des violons de l'automne
-bercent mon coeur d'une langueur monotone
+Ceci est mon fichier
+j'ai tout supprimé
